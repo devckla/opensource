@@ -11,7 +11,7 @@ HTML, CSS, JS, ReactJS.
 I propose that we dont use a CSS framework for a better learning experience - J Edison
 
 # TO-DO
-> Invite devs to list their past projects
-> Make a contributig guide
-> Invite other communities to contribute
-> Have a Hacktoberfest Meet and Greet maybe..?
+- Invite devs to list their past projects
+- Make a contributig guide
+- Invite other communities to contribute
+- Have a Hacktoberfest Meet and Greet maybe..?
