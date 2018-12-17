@@ -1,7 +1,7 @@
 
 # opensource
 
-An archive of active Local Open source projects
+An archive of active Open source projects by Developer Circles Kampala members
 <https://devckla.github.io/opensource/>
 
 # Purpose
